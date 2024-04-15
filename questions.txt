@@ -1,0 +1,38 @@
+Required
+Please read this section and post your replies to Questions 4-5-6-7)
+Below is a dataset for daily vaccination numbers per country.  Please implement a small program that reads the input file and produces the desired outputs for below questions, optimized for speed of operation. (Preferred language is Python or C#) 
+
+Please paste the link to the code implementation tasks as answer shared using pastebin, github, bitbucket, coderpad.io, dotnetfiddle, jsfiddle, or any other public web-site.
+
+Dataset link : https://www.piworks.net/Upload/Document/Original/country_vaccination_stats.csv
+
+4
+Code Implementation Task: Implement code to fill the missing data (impute) in daily_vaccinations column per country with the minimum daily vaccination number of relevant countries.  
+Note: If a country does not have any valid vaccination number yet, fill it with “0” (zero). 
+Please  provide the link to your code as answer to this question.
+Enter your answer
+
+5
+Code Implementation Task: Implement code to fill the missing data (impute) in daily_vaccinations column per country with the minimum daily vaccination number of relevant countries.  
+Note: If a country does not have any valid vaccination number yet, fill it with “0” (zero). 
+Please  provide the link to your code as answer to this question.
+Enter your answer
+
+6
+Code Implementation Task: Implement code to list the top-3 countries with highest median daily vaccination numbers by considering missing values imputed version of dataset.
+Please  provide the link to your code as answer to this question.
+Enter your answer
+
+7
+What is the number of total vaccinations done on 1/6/2021 (MM/DD/YYYY) by considering missing values imputed version of dataset? Please  just provide the number as answer.
+Enter your answer
+
+8
+Code Implementation Task: If this list would be a database table, please provide SQL query to fill in the missing daily vaccination numbers with discrete median of country as similar to question a.  
+Please  provide the link to your code as answer to this question. 
+Note: This time SQL equivalent is requested, and imputation value is median of each country, not minimum. Please remember filling countries with zero if they do not have any valid daily_vaccination records like Kuwait.
+Enter your answer
+
+Back
+Next
+Never give out your password.Report abuse
